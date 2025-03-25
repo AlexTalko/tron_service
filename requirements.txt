@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+sqlalchemy==2.0.15
+pydantic==1.10.7
+tronpy==0.5.0
+pytest==7.3.1
+pytest-cov==4.0.0
+httpx==0.24.0
+python-dotenv==1.0.0
